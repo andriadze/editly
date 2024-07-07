@@ -1,4 +1,4 @@
-import { fabric } from 'fabric';
+import * as fabric from 'fabric';
 import { createCanvas, ImageData } from 'canvas';
 
 import { boxBlurImage } from '../BoxBlur.js';

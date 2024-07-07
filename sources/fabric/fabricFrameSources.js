@@ -1,4 +1,4 @@
-import { fabric } from 'fabric';
+import * as fabric from 'fabric';
 import fileUrl from 'file-url';
 
 import { getRandomGradient, getRandomColors } from '../../colors.js';
